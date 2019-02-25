@@ -15,8 +15,8 @@ designed to be taken independently so if you just want to learn about a specific
   - [Workshop Preparation](#workshop-preparation)
     - [Pre-requisites](#pre-requisites)
     - [Downloads](#downloads)
+- [Introduction](#introduction)
 - [Module 1: REST Foundation](#module-1-rest-foundation)
-  - [Introduction](#introduction)
     - [Creating a RESTful web service](#creating-a-restful-web-service)
     - [Injecting dependencies into microservices](#injecting-dependencies-into-microservices)
     - [Consuming RESTful services with template interfaces](#consuming-restful-services-with-template-interfaces)
@@ -65,9 +65,7 @@ mvn install
 docker build -t prime:mym2 .
 ```
 
-# Module 1: REST Foundation
-
-## Introduction
+# Introduction
 
 Cloud-native is an approach to application development and deployment.  It's the product of a number of industry movements over the past 10-15 years - agile development practices, DevOps, Microservices and Cloud.  Cloud-native applications are developed using agile practices, use continuous integration/continuous delivery to streamline deployment, are architected around team-aligned microservices, and leverage the cloud for rapid deployment at scale.
 
@@ -82,6 +80,8 @@ Istio is ... TODO: Write this.
 This workshop demonstrates how to address cloud-native microservice requirements using MicroProfile technology provided by Open Liberty.  The workshop guides can be taken independently, or in the order they are introduced, below.
 
 If you have feedback on a specific guide, we'd appreciated a github issue or pull request against that guide, and similarly if you have feedback on this workshop document, please raise an issue or submit a pull request. 
+
+# Module 1: REST Foundation
 
 
 ### Creating a RESTful web service
