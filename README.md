@@ -73,11 +73,11 @@ When choosing which technologies to use for cloud-native microservices, the comb
 
 Eclipse MicroProfile is a set of industry specifications for developing and deploying cloud-native Java Microservices.  The specifications address the important challenges of cloud-native microservices, such as toleration of service failures, security, service metrics and health, and more.  Open Liberty is an open source, lightweight, composable Java server that implements the MicroProfile specifications.
 
-Kubernetes is a ... TODO: Write this.
+Kubernetes is an Open Source platform for deployment, scaling and managing containers and services.  It uses a declarative yaml-based approach to describe deployments, for example, the containers to be deployed, their scaling requirements, the services they provide, and so on. 
 
-Istio is ... TODO: Write this.
+Istio is an Open Source service mesh technology for the management of distributed microservices.  It enables securing, connecting and monitoring of microservice deployments.  Because Istio sits between the microservices in the mesh, it is able to route traffic (e.g. for blue-green deployments), handle faults (e.g. retry requests) and automatically secure service communications.
 
-This workshop demonstrates how to address cloud-native microservice requirements using MicroProfile technology provided by Open Liberty.  The workshop guides can be taken independently, or in the order they are introduced, below.
+This workshop demonstrates how to address cloud-native microservice requirements using the combination of MicroProfile, Docker, Kubernetes and Istio technologies.  The workshop guides can be taken independently, or in the order they are introduced, below.
 
 If you have feedback on a specific guide, we'd appreciated a github issue or pull request against that guide, and similarly if you have feedback on this workshop document, please raise an issue or submit a pull request. 
 
