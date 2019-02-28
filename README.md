@@ -45,7 +45,7 @@ To save time during the workshop, it's best to set up your machine beforehand. T
 
 To use these guides you need the following pre-requisites:
 1. A Java 8 JDK (e.g. https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=openj9)
-2. Apache Maven (https://maven.apache.org/)
+2. Apache Maven 3.5.4 or later (https://maven.apache.org/). Older versions may not work.
 3. A git client
 4. An editor with Java support (e.g. Eclipse, VS Code, IntelliJ)
 5. Docker & Kubernetes:
