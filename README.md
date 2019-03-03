@@ -7,7 +7,7 @@ This workshop demonstrates the use of MicroProfile, Docker, Kubernetes and Istio
 * **Module 4** covers the deployment, scaling and updating of microserivces at scale, through Kubernetes and Istio.
 
 Each workshop module consists of a number of Open Liberty Guides each of which demonstrates a key cloud-native microservice technology. Each Guide is 
-designed to be taken independently so if you just want to learn about a specific technology you can just take that guide. If, however, you're goal is to learn about all the technologies, then working through them in the order shown below is recommended.
+designed to be taken independently so if you just want to learn about a specific technology you can just take that guide. If, however, your goal is to learn about all the technologies, then working through them in the order shown below is recommended.
 
 ## Table of Contents
 - [Cloud-native Java Workshop](#cloud-native-java-workshop)
