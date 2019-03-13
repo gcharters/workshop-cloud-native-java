@@ -59,7 +59,7 @@ To use these guides you need the following pre-requisites:
 If you will be taking the workshop at a location with limited network bandwidth, it is recommended you do the following beforehand in order to populate your local .m2 repo and Docker cache.
 
 ```
-git clone https://github.com/OpenLiberty/workshop-cloud-native-java.git
+git clone https://github.com/gcharters/workshop-cloud-native-java.git
 cd workshop-cloud-native-java
 mvn install
 docker build -t prime:mym2 .
